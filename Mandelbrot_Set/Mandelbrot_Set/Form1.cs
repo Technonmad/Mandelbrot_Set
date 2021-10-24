@@ -17,11 +17,18 @@ namespace Mandelbrot_Set
         {
             InitializeComponent();
             mandelbrot = new Mandelbrot();
-            
+            mandelbrot.progress = ProgressBar;
+        }
+
+        public void ProgressBar(int x)
+        {
+            Mandelbrot.Progress progress = ProgressBar;
+            progressBar1.Value = x;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            pictureBox1.Image = null;
             pictureBox1.Image = mandelbrot.Draw(pictureBox1.Width, pictureBox1.Height,
                 Convert.ToInt32(textBox1.Text), Convert.ToInt32(textBox2.Text));
         }
