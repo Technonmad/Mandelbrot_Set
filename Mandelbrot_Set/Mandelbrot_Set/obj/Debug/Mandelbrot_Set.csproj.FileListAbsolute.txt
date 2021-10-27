@@ -18,3 +18,13 @@ C:\Users\User\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\
 C:\Users\User\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
 C:\Users\User\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojAssemblyReference.cache
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Form1.resources
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.cache
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\Anton\Documents\GitHub\Mandelbrot_Set\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb

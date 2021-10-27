@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Mandelbrot_Set
 {
+    //распараллелить task ами, они должны считать, но не отрисовывать
     class Mandelbrot
     {
         Complex z = 0;
